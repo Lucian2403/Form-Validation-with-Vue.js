@@ -1,4 +1,5 @@
-# web-form
+# Forms & inputs
+A form validation component with skill selector and v-model property made with Vue CLI
 
 ## Project setup
 ```
